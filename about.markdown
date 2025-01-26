@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+.NET Software Architect with over a decade of experience in agile, collaborative environments. Expertise in pre-sales, including architecture and project estimation, and project execution. Certified in Azure with strong Cloud computing knowledge.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Extensive experience in .NET web development, working on large enterprise projects using both .NET Framework and .NET. Proficient in greenfield development and maintenance.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Skilled in deep debugging, performance analysis, and optimization through tracing and load testing.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Certified in Sitecore & Sitecore Commerce development with vast experience.
